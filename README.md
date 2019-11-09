@@ -4,7 +4,11 @@ A CTC17 team looking at improving travel in Aberdeen by finding which routes are
 
 ## The Problem
 
-Many people travel several miles to work every day. Ideally, they would have access to efficient public transport (of safe active travel routes) that are comparable in convenience to private car usage. In practice, public transport options are often much slower than travelling by private car. 
+Many people travel several miles to work every day. Ideally, they would have access to efficient public transport (of safe active travel routes) that are comparable in convenience to private car usage. In practice, public transport options are often much slower than travelling by private car.
+
+![map of aberdeen population hotspots and heavy industry locations](/aberdeen_centres.png)
+
+We identified a set of locations marked as population hotspots and compared these with locations of locations of heavy industry and centres of large-scale employment - when considering that _all_ bus routes travel through the city centre, making short journeys from suburb to suburb very lengthy - a full hour longer in some cases. 
 
 ## Goal of this project
 
