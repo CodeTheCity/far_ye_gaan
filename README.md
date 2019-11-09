@@ -18,6 +18,7 @@ This image illlustrates the typical differences between travel times by differen
 
 ## links
 
+* Nestran Bus documents https://www.nestrans.org.uk/projects/buses/documents-bus/
 * Aberdeen City Region Strategic Transport Appraisal:
 Pre-Appraisal https://www.nestrans.org.uk/wp-content/uploads/2019/08/AbdnCRD_Options-Report_v2_Issued_190809.pdf
 * Assessing the State of the Bus Network in Aberdeen and Aberdeenshire
