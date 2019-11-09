@@ -14,7 +14,7 @@ The goal of this project is simply to identify the routes where the greatest imp
 
 This image illlustrates the typical differences between travel times by different modes. The red area shows the limits of where you can travel within 30 minutes starting from the centre of Mannofield. The blue area shows the destinations possible by car within 30 minutes from the same starting point.
 
-![map](/Annotation 2019-11-09 151252.png)
+![map](/map-example.png.png)
 
 ## links
 
