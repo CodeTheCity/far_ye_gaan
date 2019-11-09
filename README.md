@@ -3,7 +3,7 @@
 A CTC17 team looking at improving travel in Aberdeen by finding which routes are in most need of improvement
 
 
-[Complete our survey](https://docs.google.com/forms/d/e/1FAIpQLSecZpt-ibLbz1JLWk5WtPaLANHa5U-L130CPRuim4Ic_QE2KA/viewform?usp=sf_link)
+[Complete our survey](https://docs.google.com/forms/d/e/1FAIpQLSecZpt-ibLbz1JLWk5WtPaLANHa5U-L130CPRuim4Ic_QE2KA/viewform?usp=sf_link) , you can also access this at http://faryegann.aberdeenspaceport.com/
 
 [View Survey Results](https://docs.google.com/spreadsheets/d/1FbG9ZsQC9agmYkmx3QFNswvsVeuGNy7KvZ-FpgcyWpQ/edit?usp=sharing)
 
