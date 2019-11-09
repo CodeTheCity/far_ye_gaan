@@ -20,6 +20,8 @@ This image illlustrates the typical differences between travel times by differen
 
 * Aberdeen City Region Strategic Transport Appraisal:
 Pre-Appraisal https://www.nestrans.org.uk/wp-content/uploads/2019/08/AbdnCRD_Options-Report_v2_Issued_190809.pdf
-
+* Assessing the State of the Bus Network in Aberdeen and Aberdeenshire
+ https://www.nestrans.org.uk/wp-content/uploads/2019/06/5aapp-State-of-the-Network-Report_Final.pdf
+ 
 # Quick findings so far
 
