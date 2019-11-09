@@ -18,11 +18,15 @@
 """Performs requests to the Google Maps Distance Matrix API."""
 import googlemaps
 from googlemaps import convert
+import pprint
 
 def main():
+    pp = pprint.PrettyPrinter(indent=4)
     client = googlemaps.Client(key="AIzaSyC0GjdAIxB2-8DT_OGbWHVFxt0WR9Laz0w")
-    result = distance_matrix(client,["aberdeen"], ["edinburgh"])
-    print(result)
+    origins = ["mannofield, aberdeen", "cults, aberdeen", "westend, aberdeen"]
+    destinations = ["altens industrial estate, aberdeen", "tullos, aberdeen", "wellington road, aberdeen"]
+    result = distance_matrix(client,origins, destinations)
+    pp.pprint(result)
 
 def distance_matrix(client, origins, destinations,
                     mode=None, language=None, avoid=None, units=None,
