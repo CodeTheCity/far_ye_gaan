@@ -39,3 +39,6 @@ Pre-Appraisal https://www.nestrans.org.uk/wp-content/uploads/2019/08/AbdnCRD_Opt
  
 # Quick findings so far
 
+Essentially, Aberdeen has no circular bus route and would benifit greatly from such a route, both clockwise and anti-clockwise, perhaps also including a system of both inner and outer-circle routes, allowing for much quicker transit between suburbs and out-of-centre zones without having to cross into the centre.
+
+This may also cause a reduction in overall bus traffic through the city centre, and a reduction in car usage in the peripheral road network of the city.
